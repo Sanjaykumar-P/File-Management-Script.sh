@@ -1,4 +1,5 @@
 LIVE LINK OF THIS PROJECT:https://github.com/Sanjaykumar-P/File-Management-Script.sh
+LIVE LINK OF SCRIPT:
 # File Management Script (Bash)
 
 This is a beginner-friendly Bash script created to demonstrate **basic file management operations** in a Linux environment using fundamental shell commands.
